@@ -1,0 +1,11 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: my title here
+message: this is the message I want to dedicate
+type: software
+authors:
+  - given-names: Jesus
+    family-names: Garcia Gonzalez
+    email: ctw@ctwhome.com
